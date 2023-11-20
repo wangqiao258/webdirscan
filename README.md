@@ -6,7 +6,7 @@
 
 使用Python语言编写
 
-第三方模块只用了`requests`、`re`,所以`clone`以后只需要安装`requests`,`re`模块即可。
+第三方模块只用了`requests`、`re`,所以`clone`以后只需要安装`requests`、`re`模块即可。
 
 ```
 git clone https://github.com/wangqiao258/webdirscan.git
