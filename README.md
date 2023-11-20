@@ -9,7 +9,7 @@
 第三方模块只用了`requests`,所以`clone`以后只需要安装`requests`,`re`模块即可。
 
 ```
-git clone https://github.com/Strikersb/webdirscan.git
+git clone https://github.com/wangqiao258/webdirscan.git
 pip install requests
 pip install re
 ```
